@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.DS_Store
+
+# Python environments
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Generated outputs
+outputs/
+results/
+runs/
+wandb/
+*.log
+
+# Model and training artifacts
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Local secrets/configuration
+.env
+.env.*

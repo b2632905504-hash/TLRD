@@ -1,0 +1,6 @@
+{
+  "adult_tlrd_finetune_example": {
+    "file_name": "../../data/adult/corpus_finetune/<finetuning-corpus-file>.json",
+    "formatting": "alpaca"
+  }
+}
